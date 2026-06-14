@@ -1,74 +1,82 @@
 # Financial Data API for Developers | Fin2Dev
 
-Developer-first Financial Data API for applications, trading platforms, analytics tools and research projects.
+Developer-first Financial Data APIs for applications, trading platforms, analytics tools and research projects.
 
-## Available API
+## Available APIs
 
-### Commodity Prices API
+<details>
+<summary><strong>Commodity Prices API</strong></summary>
 
-Real-time and historical commodity prices including Gold, Silver, Oil, Natural Gas, Copper, Lithium, Agricultural Commodities and more.
+Real-time and historical commodity prices including Gold, Silver, Oil, Natural Gas, Copper, Lithium and Agricultural Commodities.
 
-🔗 https://fin2dev.com/commodity-prices-api/
+🔗 [View API](https://fin2dev.com/commodity-prices-api/) | 📂 View Repository
 
-### Macroeconomic Calendar API
+</details>
 
-Macroeconomic calendar data with upcoming and historical economic events including CPI, GDP, Interest Rates, Employment Reports and more.
+<details>
+<summary><strong>Macroeconomic Calendar API (Economic Calendar API)</strong></summary>
 
-🔗 https://fin2dev.com/macroeconomic-calendar-api/
+Macroeconomic calendar data with upcoming and historical economic events including CPI, GDP, Interest Rates and Employment Reports.
 
-### Macroeconomic Data API
+🔗 [View API](https://fin2dev.com/macroeconomic-calendar-api/) | 📂 View Repository
+
+</details>
+
+<details>
+<summary><strong>Macroeconomic Data API (Economic Data API)</strong></summary>
 
 Macroeconomic indicators for more than 50 countries including Inflation, GDP, Interest Rates, Unemployment and Economic Growth data.
 
-🔗 https://fin2dev.com/macroeconomic-data-api/
+🔗 [View API](https://fin2dev.com/macroeconomic-data-api/) | 📂 View Repository
 
-### Bonds Data API
+</details>
+
+<details>
+<summary><strong>Bonds Data API</strong></summary>
 
 Government bond yields and historical treasury data for major global economies.
 
 Maturities: 3m, 6m, 2y, 5y, 10y, 20y, 10y_TIPS and more.
 
-🔗 https://fin2dev.com/bonds-api/
+🔗 [View API](https://fin2dev.com/bonds-api/) | 📂 View Repository
 
-### ETF Holdings API
+</details>
+
+<details>
+<summary><strong>ETF Holdings API</strong></summary>
 
 ETF constituents, portfolio allocations and holdings information.
 
-🔗 https://fin2dev.com/etf-holdings-api/
+🔗 [View API](https://fin2dev.com/etf-holdings-api/) | 📂 View Repository
 
-### Financial Statements API
+</details>
+
+<details>
+<summary><strong>Financial Statements API</strong></summary>
 
 Income Statements, Balance Sheets and Cash Flow Statements for publicly traded companies.
 
-🔗 https://fin2dev.com/financial-statements-api/
+🔗 [View API](https://fin2dev.com/financial-statements-api/) | 📂 View Repository
 
-### Analyst Ratings API
+</details>
+
+<details>
+<summary><strong>Analyst Ratings API</strong></summary>
 
 Analyst recommendations, ratings history and market sentiment data.
 
-🔗 https://fin2dev.com/analyst-ratings-api/
+🔗 [View API](https://fin2dev.com/analyst-ratings-api/) | 📂 View Repository
 
-### Historical Candlestick API
+</details>
+
+<details>
+<summary><strong>Historical Candlestick API</strong></summary>
 
 Historical OHLCV market data for stocks and ETFs.
 
-🔗 https://fin2dev.com/historical-candlestick-api/
+🔗 [View API](https://fin2dev.com/historical-candlestick-api/) | 📂 View Repository
 
----
-
-## Documentation
-
-Website:
-https://fin2dev.com/
-
-API Documentation:
-https://fin2dev.com/documentation/
-
-Blog:
-https://fin2dev.com/blog/
-
-Pricing:
-https://fin2dev.com/pricing/
+</details>
 
 ---
 
@@ -82,8 +90,10 @@ https://fin2dev.com/pricing/
 
 ---
 
-## Connect with Us
+## Resources
 
-Website: https://fin2dev.com/
-
-GitHub Organization: https://github.com/fin2dev
+* Website: https://fin2dev.com/
+* Documentation: https://fin2dev.com/documentation/
+* Pricing: https://fin2dev.com/pricing/
+* Blog: https://fin2dev.com/blog/
+* GitHub: https://github.com/fin2dev
