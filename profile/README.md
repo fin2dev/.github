@@ -5,7 +5,7 @@ Developer-first Financial Data APIs for applications, trading platforms, analyti
 ## Available APIs
 
 <details>
-<summary><strong>Commodity Prices API</strong></summary>
+<summary><strong>Commodity Prices API (Commodities Price API)</strong></summary>
 
 Real-time and historical commodity prices including Gold, Silver, Oil, Natural Gas, Copper, Lithium and Agricultural Commodities.
 
