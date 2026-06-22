@@ -9,7 +9,7 @@ Developer-first Financial Data APIs for applications, trading platforms, analyti
 
 Real-time and historical commodity prices including Gold, Silver, Oil, Natural Gas, Copper, Lithium and Agricultural Commodities.
 
-🔗 [View API](https://fin2dev.com/commodity-prices-api/) | 📂 View Repository
+🔗 [View API](https://fin2dev.com/commodity-prices-api/) | 📂 [View Repository](https://github.com/fin2dev/Commodity-Prices-API)
 
 </details>
 
